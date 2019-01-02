@@ -1,14 +1,14 @@
 # Site
 title:              ETRI-AI
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'ETRI-AI Page.'
+description:        "AI에 관련된 정보를 공유하고, 함께 학습하는 공간"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                "https://ETRI-AI.github.io"
+url:                "https://etriai.github.io"
 baseurl:            ""
 
 # Jekyll
